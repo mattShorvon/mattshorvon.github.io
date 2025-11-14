@@ -13,7 +13,7 @@ My research focuses on **probabilistic models and probabilistic reasoning**, a f
 - Machine learning for decision-making under uncertainty  
 - Explainable AI (XAI)  
 - Applied ML for healthcare and life sciences  
-- Tree ensembles, Bayesian networks, and normalizing flows  
+- Probabilistic Circuits and Tree Ensembles
 
 ---
 
@@ -46,7 +46,7 @@ My research focuses on **probabilistic models and probabilistic reasoning**, a f
 
 ## 🧠 Skills
 - **Programming:** Python, R, Bash, SQL  
-- **Libraries:** PyTorch, Scikit-learn, Pandas, NumPy, Optuna, XGBoost, LightGBM  
+- **Libraries:** Scikit-learn, Pandas, NumPy, Optuna, XGBoost, LightGBM, PyTorch, TensorFlow
 - **Tools:** Git, AWS, HPC clusters  
 - **Expertise:** Machine learning, probabilistic inference, experimental pipelines, data analysis  
 - **Communication:** Experienced in writing, presenting, and publishing research
@@ -54,8 +54,6 @@ My research focuses on **probabilistic models and probabilistic reasoning**, a f
 ---
 
 ## 🗣️ Recent Highlights
-- Presented ML research at **international conferences**  
-- Authored paper *“Solving MAP with Random Forests”* (AAAI 2026 submission)  
 - Speaker at **EMBC 2025** on automating clinical workflows with ML  
 
 ---
