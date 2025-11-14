@@ -1,5 +1,7 @@
 # Matthew Shorvon
 
+<img src="assets/profile.jpg" alt="Matthew Shorvon" width="150" style="border-radius:50%;">
+
 👋 Hi, I’m **Matthew Shorvon** — a PhD student in **Machine Learning (ML)**, jointly at **King’s College London** and **Imperial College London**, as part of the *Safe and Trusted AI* program.
 
 My research focuses on **probabilistic models and probabilistic reasoning**, a field that aims to revolutionize how people make decisions under uncertainty. I’m passionate about using AI to solve real-world problems — from diagnosing **Sepsis** and **Epilepsy** to developing algorithms that help people and systems make smarter, faster decisions.
